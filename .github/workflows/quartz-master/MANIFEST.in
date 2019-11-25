@@ -1,9 +1,0 @@
-# generic data
-include LICENSE
-include README.md
-
-# webapp data
-include quartz/html/templates/*
-include quartz/html/static/css/*
-include quartz/html/static/js/*
-include quartz/html/static/fonts/*
