@@ -1,7 +1,0 @@
-tornado
-mongoengine
-gemstone
-humanize
-pyparsing
-pyfiglet
-matplotlib
