@@ -1,8 +1,0 @@
-tornado
-mongoengine
-gemstone
-humanize
-pypeg2
-pyfiglet
-sphinx
-sphinx_bootstrap_theme
